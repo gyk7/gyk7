@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 **🧑‍💻 Lang and Frameworks**
 
 ![Python](https://img.shields.io/badge/python-efdecd?style=for-the-badge&logo=Python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/mysql-bcd4e6?style=for-the-badge&logo=mySQL&logoColor=4479A1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung&layout=compact)](https://github.com/gayoung/github-readme-stats)
